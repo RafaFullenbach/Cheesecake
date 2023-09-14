@@ -1,6 +1,9 @@
 # Cheesecake
 
 The aim of this project was to learn basic HTML and CSS, reinforcing responsiveness.
+
+https://github.com/RafaFullenbach/cheesecake/assets/63618616/a28c6843-4ce5-4cd3-bb28-48ef5be10b58
+
 ## Apprenticeship
 
 - webkit-font-smoothing: antialiased;
